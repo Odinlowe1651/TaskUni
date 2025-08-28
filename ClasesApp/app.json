@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Mis Clases",
+    "slug": "mis-clases",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.tuusuario.misclases",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "plugins": [
+      "expo-notifications"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0a492f91-c222-4d79-b71c-1a8c4918442a"
+      }
+    }
+  }
+}
